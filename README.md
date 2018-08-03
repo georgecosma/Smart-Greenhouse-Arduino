@@ -12,7 +12,7 @@ This code is part of my project named "Smart Greenhouse". It is the source code 
 
 ## Getting Started
 
-In order to upload the code on the Arduino board, you must use the Arduino IDE (link attached in the below section). The pins and connections configuration is also presented in the code. 
+In order to upload the code on the Arduino board, you must use the Arduino IDE (link attached in the below section). The pins and connections configuration is also presented in the code. To run properly, the .ino file must be contained by a folder with the same name.
 
 ### Prerequisites
 
